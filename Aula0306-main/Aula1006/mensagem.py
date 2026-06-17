@@ -1,1 +1,0 @@
-print("Segunda aula de Lógica de Programação com Python")
