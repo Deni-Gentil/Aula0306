@@ -1,6 +1,0 @@
-print("---------------------------------")
-print("Perigo: célula em inicialização")
-print("---------------------------------")
-print("Ligando exaustor de gases...")
-print("Energuzabdi braço robótico...")
-print("Aguardando comando de start do operador")
